@@ -14,5 +14,7 @@ events:
   - rockys-boots
   - pop
   - math-blaster
+  - nes-controller
+  - wii-remote
   - minecraft-end-user
 ---
