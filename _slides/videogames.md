@@ -11,6 +11,8 @@ slides:
   - atari-adventure
   - pop
   - c64-demoscene
+  - nes-controller
+  - wii-remote
   - math-blaster
   - minecraft-end-user
 ---
