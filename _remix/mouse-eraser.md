@@ -16,3 +16,12 @@ tags:
 <script async src="//assets.codepen.io/assets/embed/ei.js"></script>
 
 Άσκηση: Αλλάξτε οποιαδήποτε από τις δύο εικόνες καθώς και το μέγεθος του eraser.
+
+
+
+<p class="codepen" data-height="265" data-theme-id="light" data-default-tab="js,result" data-user="2019145" data-slug-hash="gOwMBYJ" style="height: 265px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;" data-pen-title="Mouse eraser">
+  <span>See the Pen <a href="https://codepen.io/2019145/pen/gOwMBYJ">
+  Mouse eraser</a> by Γεώργιος Παπαδόπουλος (<a href="https://codepen.io/2019145">@2019145</a>)
+  on <a href="https://codepen.io">CodePen</a>.</span>
+</p>
+<script async src="https://cpwebassets.codepen.io/assets/embed/ei.js"></script>
