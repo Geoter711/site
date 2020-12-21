@@ -2,7 +2,7 @@
 author: Geoter711
 title: "Nintendo"
 image_url: /images/nintendo-switch.png
-caption: "Το Nintendo Switch αποτελεί την νεότερη κόνσολα της Nintendo, προσφέρωντας έναν νέο τρόπο για τον χρήστη να αλληλεπιδράσει με τα βιντεοπαιχνίδια"
+caption: "Το Nintendo Switch αποτελεί την νεότερη κόνσολα της Nintendo, προσφέροντας έναν νέο τρόπο για τον χρήστη να αλληλεπιδράσει με τα βιντεοπαιχνίδια"
 categories:
   - case-study
   - definition
